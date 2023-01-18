@@ -1,0 +1,13 @@
+name: Pubmed_wordcloud
+title: Pubmed_wordcloud
+username:
+account: husain1015
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8030976
+bundleId: 6741154
+url: https://husain1015.shinyapps.io/Pubmed_Wordcloud/
+when: 1673917986.37385
+lastSyncTime: 1673917986.37386
+asMultiple: FALSE
+asStatic: FALSE
